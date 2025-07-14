@@ -1,7 +1,7 @@
 # Hey 👋 What's up?
 My name is Alireza!
 # 💫 About Me:
-Currently work at Dotin company, I have experience in banking solutions.<br>Love learning new technology and improving my skills.  <br>More than 10 years of experience as a professional software developer with Microsoft technologies and practices. I have consistently strived to learn and improve  to be effective in the organization’s work and create added value and did my best to produce quality software for the organization's customers. Having a good experience in the organization I work for will contribute to the profitability and customer attraction of my organization.
+Currently working at Dotin company, I have experience in banking solutions.<br>Love learning new technology and improving my skills.  <br>More than 10 years of experience as a professional software developer with Microsoft technologies and practices. I have consistently strived to learn and improve  to be effective in the organization’s work and create added value, and I have done my best to produce quality software for the organization's customers. Having a good experience in the organization I work for will contribute to the profitability and customer attraction of my organization.
 
 
 ## 🌐 Socials:
